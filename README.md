@@ -10,4 +10,6 @@ ln -s .myshell/vimrc .vimrc
 ```
 chsh -s /bin/zsh
 wget -O ~/.zshrc https://git.grml.org/f/grml-etc-core/etc/zsh/zshrc
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+echo "source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh" >> .zshrc
 ```
