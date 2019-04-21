@@ -1,4 +1,0 @@
-zstyle ':completion:*' menu select
-alias cp='cp -i'
-alias mv='mv -i'
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
