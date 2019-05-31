@@ -5,5 +5,3 @@ set ttymouse=xterm2 "fix mouse selection problem in tmux
 "make it smoother with mac touchpad
 map <ScrollWheelUp> <C-Y>
 map <ScrollWheelDown> <C-E>
-
-set listchars=eol:↵,tab:»·,trail:╳,extends:»,precedes:«,space:·
