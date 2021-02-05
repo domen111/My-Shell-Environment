@@ -3,3 +3,5 @@
 [user]
 	name = domen111
 	email = domen111@gmail.com
+[core]
+	autocrlf = input
